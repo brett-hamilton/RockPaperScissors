@@ -1,0 +1,14 @@
+# CLion project files
+.idea/
+cmake-build-*/
+
+# Build artifacts
+*.o
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Other temporary or generated files
+*.log
+*.tmp
